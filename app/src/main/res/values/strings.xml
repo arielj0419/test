@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="app_name">WearRight</string>
+    <string name="app_Cname">穿就對了</string>
+    <string name="email">Email 信箱</string>
+    <string name="password">password 密碼</string>
+    <string name="signup">Sign Up</string>
+    <string name="nickname">Nickname 暱稱</string>
+    <string name="area">Area 地區</string>
+    <string name="gender">Gender 性別</string>
+    <string name="height">Height 身高</string>
+
+    <string-array name="area_array">
+        <item>台北</item>
+        <item>新北</item>
+        <item>基隆</item>
+        <item>宜蘭</item>
+        <item>桃園</item>
+    </string-array>
+
+
+    <string-array name="sex_array">
+        <item>male</item>
+        <item>female</item>
+    </string-array>
+
+</resources>
+
